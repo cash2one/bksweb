@@ -149,12 +149,12 @@ h2 {
 
 /* development history */
 .developmentHistory {
-    margin-top: 240px;
+    margin-top: 154px;
 
 }
 
 .developmentHistory .line {
-    width: 116px;
+    width: 78px;
 }
 
 .developmentHistory h2 {
@@ -524,7 +524,7 @@ h2 {
 }
 
 .operation .sceneStep li {
-    width: 49%;
+    width: 48%;
     display: inline-block;
     text-align: center;
     margin: 20px 0 30px;
@@ -570,12 +570,19 @@ h2 {
 
 .aptitude li {
     margin: 30px;
-    width: 49%;
+    width: 48%;
     display: inline-block;
     margin: 16px 0 30px;
     text-align: center;
 }
 
+.qu li{
+    padding:0 0 3rem 0;
+}
+.qu img{
+    width:100%;
+;
+}
 .aptitude li img {
     margin-bottom: 30px;
     width: 100%;
@@ -599,6 +606,20 @@ h2 {
     margin-left: 16px;
     text-indent: 2em;
     color: #5b666f;
+}
+
+/* culture */
+
+.culture{
+    width: 100%;
+}
+
+.zs li{
+    line-height: 30px;
+}
+
+.vs{
+    font-size: 1.5em;
 }
 
 /* Float */
